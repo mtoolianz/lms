@@ -1,0 +1,12 @@
+M.A.M MUWAFFAQ MURAD
+webDesign & Develepment Batch 13
+
+login file path :-http://localhost/lms/Views/Auth/admin_login.php
+
+Admin
+  email:- asmin@gmail.com 
+  password:-123
+
+User 
+  email:- suhamurad1919@gmail.com 
+  password:-123
